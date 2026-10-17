@@ -1,0 +1,61 @@
+Question,Answer
+What does len() do?,Returns length of an object
+What is a list?,Ordered mutable collection
+What is a tuple?,Ordered immutable collection
+What does append() do?,Adds item to end of list
+What is a dictionary?,Key-value pair collection
+What does range() do?,Generates sequence of numbers
+What is self in Python?,Reference to current instance
+What does return do?,Sends value back from function
+What is a for loop?,Iterates over sequence
+What is None?,Represents absence of value
+What is *args?,Collects extra positional arguments as tuple
+What is **kwargs?,Collects extra keyword arguments as dictionary
+What is __init__?,Constructor method that runs when object created
+What is inheritance?,Child class gets parent class properties
+What is super()?,Calls parent class method
+What is encapsulation?,Hiding internal data from outside access
+What is polymorphism?,Same method behaves differently in different classes
+What is try/except?,Catches and handles errors
+What is a ValueError?,Error when value has wrong type
+What is scope (LEGB)?,Local Enclosing Global Built-in variable lookup order
+What is list comprehension?,Compact way to create lists
+What does break do?,Exits loop immediately
+What does continue do?,Skips to next iteration
+What is a docstring?,Documentation text inside function/class
+What is with open()?,Safely opens and auto-closes files
+What is CSV module used for?,Reading/writing comma-separated files
+What is a DataFrame?,Pandas table structure
+What is .iterrows()?,Loop through DataFrame rows with index
+What is an API?,Way for programs to exchange data
+What is JSON?,Data format using key-value pairs
+What is a lambda function?,Anonymous one-line function
+What is enumerate()?,Loop with both index and value
+What is zip()?,Combines multiple iterables together
+What are decorators?,Function that modifies another function
+What is a generator?,Function that yields values one at a time
+What is yield?,Returns value but pauses function state
+What is a dict comprehension?,Compact way to create dictionaries
+What is a set comprehension?,Compact way to create sets
+What is unpacking?,Assigning list/tuple items to multiple variables
+What is the walrus operator?,Assignment inside expression using :=
+What are type hints?,Specify expected data types in code
+What is a context manager?,Manages resource setup/cleanup (like with)
+What is a static method?,Method that doesn't need self or instance
+What is a class method?,Method that receives class not instance
+What is @property decorator?,Makes method behave like an attribute
+What is an abstract class?,Class that cannot be instantiated directly
+What is multithreading?,Running multiple tasks concurrently
+What is multiprocessing?,Running tasks on multiple CPU cores
+What is regex?,Pattern matching for strings
+What is itertools?,Module for efficient looping tools
+What is the collections module?,Specialized container datatypes
+What is exception chaining?,Linking multiple errors together
+What is a virtual environment?,Isolated Python environment for projects
+What is unit testing?,Automated testing of code functions
+What is assert?,"Checks condition, raises error if false"
+What is __str__ method?,Defines string representation of object
+What is __repr__ method?,Defines developer-friendly object representation
+What is duck typing?,Object type determined by behavior not class
+What is a namedtuple?,Tuple with named fields
+What is functools?,Module with higher-order function tools
